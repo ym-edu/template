@@ -1,4 +1,4 @@
-# webpack-config | github-pages-deploy | netlify
+# webpack config | github pages deploy | netlify
 
 - Exclude dist folder from git ignore
 - Create a deploy branch with
