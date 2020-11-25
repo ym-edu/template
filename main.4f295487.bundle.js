@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("hello from util.js and from app.js","| run from index.js")})();
