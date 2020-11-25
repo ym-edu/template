@@ -1,3 +1,3 @@
 import "bootstrap";
 
-console.log("Hello from vendor.js");
+console.log("HELLO from vendor.js");
