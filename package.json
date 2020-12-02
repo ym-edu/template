@@ -10,24 +10,28 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idea-nym/netlify.git"
+    "url": "git+https://github.com/ym-edu/template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/idea-nym/netlify/issues"
+    "url": "https://github.com/ym-edu/template/issues"
   },
-  "homepage": "https://github.com/idea-nym/netlify#readme",
+  "homepage": "https://github.com/ym-edu/template#readme",
   "devDependencies": {
     "bootstrap": "^4.5.3",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^5.0.1",
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
     "file-loader": "^6.2.0",
     "gh-pages": "^3.1.0",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^4.5.0",
     "jquery": "^3.5.1",
+    "mini-css-extract-plugin": "^1.3.1",
     "popper.js": "^1.16.1",
     "sass": "^1.29.0",
     "sass-loader": "^10.1.0",
@@ -36,7 +40,5 @@
     "webpack-cli": "^4.2.0",
     "webpack-dev-server": "^3.11.0"
   },
-  "dependencies": {
-    "mini-css-extract-plugin": "^1.3.1"
-  }
+  "dependencies": {}
 }
